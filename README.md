@@ -9,7 +9,7 @@ List of science-based health resources
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - 29 million citations for biomedical literature from MEDLINE, life science journals, and online books, by US National Library of Medicine, National Institutes of Health.
 * [ScienceDirect by ELSEVIER](https://www.sciencedirect.com) - peer-reviewed journals, articles, book chapters and open access content.
 * [SAGE Journals](https://journals.sagepub.com) -  peer-reviewed scientific journals.
-* [Nutrition Journal](https://nutritionj.biomedcentral.com/) - peer-reviewed medical journal covering nutrition science.
+* [Nutrition Journal](https://nutritionj.biomedcentral.com/) - peer-reviewed medical journal covering nutrition science. [Other biomedcentral journals](https://www.biomedcentral.com/journals).
 
 ### Nutrition Websites
 
