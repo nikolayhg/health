@@ -20,3 +20,4 @@ List of science-based health resources
   * [4-Step Quick Start to the Nutritarian Diet](https://www.drfuhrman.com/get-started/quick-start). [The 10 Best and WorstFoods for Health and Longevity](https://www.drfuhrman.com/content-image.ashx?id=74ijkumzxty5q44jf2jb5j). [Blog](https://www.drfuhrman.com/get-started/eat-to-live-blog)
 * [Dr. Mercola’s Food Facts](https://foodfacts.mercola.com/) - directory of the health foods.
 * [Healthline Nutrition](https://www.healthline.com/nutrition) - articles based on scientific evidence and written by experts. Our team of licensed nutritionists and dietitians strive to be objective and present both sides of the argument.
+* [Dr. Axe](https://draxe.com) - restore health, strength and vitality by providing thoroughly researched health articles.
