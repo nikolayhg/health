@@ -14,7 +14,7 @@ List of science-based health resources
 * [Directory of Open Access Journals](https://doaj.org) - online directory that indexes and provides access to quality open access, peer-reviewed journals.
 * [medRxiv](https://medrxiv.org) - preprint server for the clinical research community to share manuscripts before they are peer-reviewed and published in academic journals.
 * [ResearchGate Search](https://www.researchgate.net/search) - search for publications in the social networking site for scientists and researchers.
-
+* [Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition) -  peer-reviewed open access scientific journal on Nutrition.
 
 ### Nutrition Websites
 
