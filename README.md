@@ -13,7 +13,7 @@ List of science-based health resources
 * [Nutrients Journal by MDPI](https://www.mdpi.com/journal/nutrients) - peer-reviewed open access journal of human nutrition published monthly online by [MDPI](https://www.mdpi.com/).
 * [Directory of Open Access Journals](https://doaj.org) - online directory that indexes and provides access to quality open access, peer-reviewed journals.
 * [medRxiv](https://medrxiv.org) - preprint server for the clinical research community to share manuscripts before they are peer-reviewed and published in academic journals.
-
+* [ResearchGate Search](https://www.researchgate.net/search) - search for publications in the social networking site for scientists and researchers.
 
 
 ### Nutrition Websites
