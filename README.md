@@ -16,6 +16,9 @@ List of science-based health resources
 * [ResearchGate Search](https://www.researchgate.net/search) - search for publications in the social networking site for scientists and researchers.
 * [Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition) -  peer-reviewed open access scientific journal on Nutrition.
 * [BMJ](https://www.bmj.com/) - provider of journals, clinical decision support, events and medical education, owned subsidiary of the British Medical Association.
+* [The American Journal of Clinical Nutrition](https://academic.oup.com/ajcn) - peer-reviewed, primary research journal in nutrition and dietetics, obesity, vitamins and minerals, nutrition and disease, and energy metabolism.
+
+
 
 ### Nutrition Websites
 
