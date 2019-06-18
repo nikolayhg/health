@@ -11,6 +11,7 @@ List of science-based health resources
 * [SAGE Journals](https://journals.sagepub.com) -  peer-reviewed scientific journals.
 * [Nutrition Journal](https://nutritionj.biomedcentral.com/) - peer-reviewed medical journal covering nutrition science. [Other biomedcentral journals](https://www.biomedcentral.com/journals).
 * [Nutrients Journal by MDPI](https://www.mdpi.com/journal/nutrients) - peer-reviewed open access journal of human nutrition published monthly online by [MDPI](https://www.mdpi.com/).
+* [Directory of Open Access Journals](https://doaj.org) - online directory that indexes and provides access to quality open access, peer-reviewed journals.
 
 ### Nutrition Websites
 
