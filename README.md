@@ -24,4 +24,5 @@ List of science-based health resources
 * [Forks Over Knives](https://www.forksoverknives.com/) - provides tools and resources to make a plant-based lifestyle easier easy and enjoyable. [Diet](https://www.forksoverknives.com/what-to-eat/), [Tools: Meal Planner, Recipes](https://www.forksoverknives.com/tools/)
 * [T. Colin Campbell Center for Nutrition Studies](https://nutritionstudies.org) - evidence-based education and resources on plant-based nutrition. [Guide](https://nutritionstudies.org/whole-food-plant-based-diet-guide/).
 * [WFPB Science](https://wfpbscience.com/) - evidence based approach to healthy living through scientifically backed nutritional practices, by Jonah Stavsky.
+* [wholefoodsplantbasedhealth.com.au](https://www.wholefoodsplantbasedhealth.com.au/) - evidence based information and practical advice for those wanting to follow a whole food plant based diet.
 * [ergo-log](http://ergo-log.com/) - news site about legal and illegal ergogenic aids.
