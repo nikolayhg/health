@@ -17,4 +17,4 @@ List of science-based health resources
 * [PCRM, Physicians Committee for Responsible Medicine](https://www.pcrm.org/) - non-profit research and advocacy organization, which promotes a vegan diet, preventive medicine, and alternatives to animal research, and encourages what it describes as "higher standards of ethics and effectiveness in research.". Founder: Neal D. Barnard.
 * [Dr. Fuhrman](https://www.drfuhrman.com) - emphasizes eating high-nutrient, whole plant foods that supply abundant amounts of micronutrients. Eating this healthful diet unleashes the body’s tremendous ability to heal, achieve optimal weight and slow the aging process.
   * [4-Step Quick Start to the Nutritarian Diet](https://www.drfuhrman.com/get-started/quick-start). [The 10 Best and WorstFoods for Health and Longevity](https://www.drfuhrman.com/content-image.ashx?id=74ijkumzxty5q44jf2jb5j). [Blog](https://www.drfuhrman.com/get-started/eat-to-live-blog)
-
+* [Dr. Mercola’s Food Facts](https://foodfacts.mercola.com/) - directory of the health foods.
