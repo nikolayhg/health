@@ -4,6 +4,10 @@ List of science-based health resources
 
 ## Nutrition
 
+### Science Websites
+
+* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed) - 29 million citations for biomedical literature from MEDLINE, life science journals, and online books, by US National Library of Medicine, National Institutes of Health.
+
 ### Nutrition Websites
 
 * [nutritionfacts](https://nutritionfacts.org) - non-commercial, science-based public service provided by Dr. Michael Greger.
