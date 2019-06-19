@@ -39,6 +39,13 @@ List of science-based health resources
 * [ergo-log](http://ergo-log.com/) - news site about legal and illegal ergogenic aids.
 * [Plant Based Science London](https://www.youtube.com/channel/UCG7U-imx8hu6NLOxanXkROQ/videos) - YouTube channel on PB diet.
 
+
+### Nutrition Video Channels
+
+* [Unnatural Vegan](https://www.youtube.com/channel/UCJBry7T2R1WeipWMBWKJ7Rg)
+* [Plant Based Science London](https://www.youtube.com/channel/UCG7U-imx8hu6NLOxanXkROQ)
+
+
 ## Exercise
 
 
