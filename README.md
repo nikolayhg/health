@@ -18,6 +18,9 @@ List of science-based health resources
 * [BMJ](https://www.bmj.com/) - provider of journals, clinical decision support, events and medical education, owned subsidiary of the British Medical Association.
 * [The American Journal of Clinical Nutrition](https://academic.oup.com/ajcn) - peer-reviewed, primary research journal in nutrition and dietetics, obesity, vitamins and minerals, nutrition and disease, and energy metabolism.
 
+### Understanding Science
+
+* [Peter Attia - Understanding Science Articles](https://peterattiamd.com/category/understanding-science/).
 
 
 ### Nutrition Websites
