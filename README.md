@@ -20,7 +20,8 @@ List of science-based health resources
 
 ### Understanding Science
 
-* [Peter Attia - Understanding Science Articles](https://peterattiamd.com/category/understanding-science/).
+* [Peter Attia - Understanding Science Articles](https://peterattiamd.com/category/understanding-science/) - [relative risk vs. absolute risk](https://peterattiamd.com/ns001/).
+
 
 
 ### Nutrition Websites
