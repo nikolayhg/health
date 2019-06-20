@@ -20,7 +20,9 @@ List of science-based health resources
 
 ### Understanding Science
 
-* [Peter Attia - Understanding Science Articles](https://peterattiamd.com/category/understanding-science/) - [relative risk vs. absolute risk](https://peterattiamd.com/ns001/).
+* [Peter Attia - Understanding Science](https://peterattiamd.com/category/understanding-science/)
+  * Studying Studies: [relative risk vs. absolute risk](https://peterattiamd.com/ns001/), [observational epidemiology](https://peterattiamd.com/ns002/), [the motivation for observational studies](https://peterattiamd.com/ns003/), [randomization and confounding](https://peterattiamd.com/ns004/), [power and significance](https://peterattiamd.com/studying-studies-part-v-power-and-significance/).
+  * [Is red meat killing us?](https://peterattiamd.com/is-red-meat-killing-us/)
 
 
 
