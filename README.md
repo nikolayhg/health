@@ -54,6 +54,17 @@ List of science-based health resources
 
 ## Exercise
 
+### Longevity Exercise
+
+
+### Exercise Podcasts
+* [Why You Need To Protect Your Joints If You Want to Live to Be 100](https://invidio.us/watch?v=YY-_ux4ZXp4)
+  - Should [train for](https://invidio.us/watch?v=YY-_ux4ZXp4&start=7m46s):
+    - Maintaince of muscle mass
+    - Joint integrity
+    - Flexibility
+    - Functional Movement
+    - Balance
 
 ## Sleep
 
